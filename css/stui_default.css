@@ -287,7 +287,7 @@ textarea.form-control {
     display: block;
     width: 150px;
     height: 50px;
-    background: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae4eabf5-1b15-425e-bdc9-144e48cded99/557c0b73-33e3-4a57-a94a-26532647efbf.png) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/bytecdn/cdn/images/logo_f.png) no-repeat;
     background-position: 50% 50%;
     background-size: cover;
 }
@@ -1346,7 +1346,7 @@ textarea.form-control {
     .stui-header__logo .logo {
         width: 127px;
         height: 30px;
-        background: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-ae4eabf5-1b15-425e-bdc9-144e48cded99/e2c9b12d-4eae-4ac0-9c41-7b586232d1e2.png) no-repeat;
+        background: url(https://cdn.jsdelivr.net/gh/bytecdn/cdn/images/logo_m.png) no-repeat;
         background-position: 50% 50%;
         background-size: cover;
     }
